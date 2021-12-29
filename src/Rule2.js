@@ -9,7 +9,7 @@ render(){
 return(<div><center> <font color="green"><h2>Always wear seat belt</h2></font></center><br/>
 
 <center><img src={seatbelt} height="200" width="200"></img></center>
-<p style={{fontFamily:"serif"}} >The West Delhi Traffic Police conducted a drive last week to ensure that rear passengers wear seatbelts in cars. 
+<p style={{fontFamily:"serif",color:"teal"}} >The West Delhi Traffic Police conducted a drive last week to ensure that rear passengers wear seatbelts in cars. 
 As part of this drive, the traffic police issued challans of up to 1,000 for not wearing rear seat belt.
 This drive was effectively an awareness campaign between 13 January and 23 January and was aimed at apprising people that they are mandated by the law to buckle up their seat belt even when they are in the rear seat. 
 As a matter of fact, Section 138 (3) of the Central Motor Vehicles Rules makes it compulsory for rear passengers to wear a seat belt.
